@@ -1,7 +1,6 @@
 # YiLu-Proxy
 A tutorial about how to use YiLu Proxy with Lalicat antidetect browser.
-<a href="https://www.google.com/" onclick="window.open(this.href,'_blank');return false;">打开Google</a>
- [YiLuProxy](https://www.lalicat.com/yiluproxy-integration) is a residential proxy server, that supports Socks5 and HTTP proxy protocols, and offers 90M+ million dynamic rotating residential proxy and datacenter proxy IPs from global 200+ countries. So you can use [YiLu Proxy](https://www.lalicat.com/yilus5-proxy) and Lalicat antidetect browser to create multiple virtual browsers with different browser fingerprinting and IP addresses to manage multiple accounts.
+[YiLu Proxy](https://www.lalicat.com/yilus5-proxy) is a residential proxy server, that supports Socks5 and HTTP proxy protocols, and offers 90M+ million dynamic rotating residential proxy and datacenter proxy IPs from global 200+ countries. So you can use [YiLuProxy](https://www.lalicat.com/yiluproxy-integration) and Lalicat antidetect browser to create multiple virtual browsers with different browser fingerprinting and IP addresses to manage multiple accounts.
 
 [![YiLu Proxy & Lalicat antidetect browser](https://res.cloudinary.com/marcomontalbano/image/upload/v1683786363/video_to_markdown/images/youtube--m1ZCqWAZ2cY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=m1ZCqWAZ2cY "YiLu Proxy & Lalicat antidetect browser")
 
